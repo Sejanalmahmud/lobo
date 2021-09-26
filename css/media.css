@@ -1,0 +1,494 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 320.98px) {
+/*logo*/
+.logo {
+    margin-left: 0px;
+}
+/*menu*/
+.menu_icon{
+    color: white;
+}
+.menu_b{
+    color: white !important;
+    border-color: white !important;
+}
+.menu_b:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+.menu ul li:first-child {
+    margin-left: 0px;
+}
+.menu ul li a {
+    margin-right: 90px !important;
+    padding-left: 12px !important;
+}
+.logistic {
+    width: 295px;
+    margin: 158px -36px 124px 0px;
+}
+.logistic h1 {
+    font-size: 26px;
+}
+.provide_h {
+    font-size: 24px;
+}
+.why_lobo_text {
+    text-align: center;
+}
+.service_img p {
+    text-align: center;
+}
+    /*service*/
+.service_text p {
+    width: 291px;
+    margin-left: 0px;
+}
+.provide_text p {
+    width: 292px;
+    text-align: center;
+    margin-left: 0px;
+}
+/*=========About us page==========*/
+.about_text h4 {
+    padding-top: 13px;
+    text-align: center;
+}
+.about_text p {
+    text-align: center;
+}
+.coustomer_text h3 {
+    text-align: center;
+    padding: 0 4px;
+    line-height: 32px;
+}
+.cous_p {
+    width: 127px;
+    margin-left: 98px;
+}
+.coustomer_text p {
+    padding: 0 0 0 22px;
+}
+/*=================contact us page================*/
+.c_mr {
+    margin-top: 1rem !important;
+}
+.icon {
+    width: 69px;
+    margin-bottom: 10px;
+}
+}
+/*coustom create screen_mobile-2*/
+@media (min-width: 321px) and (max-width: 375.98px) { 
+/*logo*/
+.logo {
+    margin-left: 0px;
+}
+/*menu*/
+.menu_icon{
+    color: white;
+}
+.menu_b{
+    color: white !important;
+    border-color: white !important;
+}
+.menu_b:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+.menu ul li:first-child {
+    margin-left: 0px;
+}
+.menu ul li a {
+    margin-right: 90px !important;
+    padding-left: 12px !important;
+}
+.logistic {
+    width: 295px;
+    margin: 158px -17px 110px 0px;
+}
+.logistic h1 {
+    font-size: 26px;
+}
+.provide_h {
+    font-size: 24px;
+}
+.why_lobo_text {
+    text-align: center;
+}
+.service_img p {
+    text-align: center;
+}
+    /*service*/
+.service_text p {
+    width: 291px;
+    margin-left: 29px;
+}
+.provide_text p {
+    width: 292px;
+    text-align: center;
+    margin-left: 27px;
+}
+/*=========About us page==========*/
+.about_text h4 {
+    padding-top: 13px;
+    text-align: center;
+}
+.about_text p {
+    text-align: center;
+}
+.coustomer_text h3 {
+    text-align: center;
+    padding: 0 4px;
+    line-height: 32px;
+}
+.cous_p {
+    width: 172px;
+    margin-left: 98px;
+}
+.coustomer_text p {
+    padding: 0 0 0 22px;
+}
+/*=================contact us page================*/
+.c_mr {
+    margin-top: 1rem !important;
+}
+.icon {
+    width: 69px;
+    margin-bottom: 10px;
+}
+}
+
+/*coustom create screen_mobile-3*/
+@media (min-width: 376px) and (max-width: 575.98px) { 
+/*logo*/
+.logo {
+    margin-left: 0px;
+}
+/*menu*/
+.menu_icon{
+    color: white;
+}
+.menu_b{
+    color: white !important;
+    border-color: white !important;
+}
+.menu_b:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+.menu ul li:first-child {
+    margin-left: 0px;
+}
+.menu ul li a {
+    margin-right: 90px !important;
+    padding-left: 12px !important;
+}
+.logistic {
+    width: 295px;
+    margin: 158px 0px 124px 0px;
+}
+.logistic h1 {
+    font-size: 26px;
+}
+.provide_h {
+    font-size: 29px;
+}
+.why_lobo_text {
+    text-align: center;
+}
+.service_img p {
+    text-align: center;
+}
+    /*service*/
+.service_img {
+    text-align: center;
+}
+.service_text p {
+    width: 372px;
+    margin-left: 16px;
+}
+.provide_text p {
+    width: 374px;
+    text-align: center;
+    margin-left: 14px;
+}
+/*=========About us page==========*/
+.about_text h4 {
+    padding-top: 13px;
+    text-align: center;
+}
+.about_text p {
+    text-align: center;
+}
+.coustomer_text h3 {
+    text-align: center;
+    padding: 0 4px;
+    line-height: 32px;
+}
+.cous_p {
+    width: 278px;
+    margin-left: 73px;
+}
+.coustomer_text p {
+    padding: 0 0 0 22px;
+}
+/*=================contact us page================*/
+.c_mr {
+    margin-top: 1rem !important;
+}
+.icon {
+    width: 69px;
+    margin-bottom: 10px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.logo_wd {
+    width: 16.666667% !important;
+}
+/*menu*/
+.navbar-light .navbar-toggler {
+    color:white !important;
+    border-color: white;
+}
+.menu ul li:first-child {
+    margin-left: 0px;
+}
+.menu ul li a {
+    margin-right: 567px !important;
+    padding-left: 12px !important;
+}
+/*banner*/
+.logistic {
+    width: 439px;
+    margin: 158px 0px 161px 0px;
+}
+/*why_lobo*/
+.why_lobo_text {
+    margin-top: 0px;
+}
+/*service*/
+.service_text p {
+    margin-left: 13px;
+}
+.service_img{
+    text-align: center;
+}
+.service_img p {
+    width: 459px;
+    margin-left: 118px;
+}
+/*provide*/
+.provide_text p {
+    margin-left: 11px;
+}
+.provide_h {
+    font-size: 35px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+.logo_wd {
+    width: 16.666667% !important;
+}
+/*menu*/
+.navbar-light .navbar-toggler {
+    color:white !important;
+    border-color: white;
+}
+.menu_b:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+.menu ul li:first-child {
+    margin-left: 0px;
+}
+.menu ul li a {
+    margin-right: 493px !important;
+    padding-left: 12px !important;
+}
+/*banner*/
+.logistic {
+    width: 439px;
+    margin: 158px 0px 161px 0px;
+}
+/*why_lobo*/
+.why_lobo_text {
+    margin-top: 0px;
+}
+/*service*/
+.service_text p {
+    margin-left: 13px;
+}
+.service_img{
+    text-align: center;
+}
+.service_img p {
+    width: 459px;
+    margin-left: 118px;
+}
+/*provide*/
+.provide_text p {
+    margin-left: 11px;
+}
+.provide_h {
+    font-size: 35px;
+}
+/*============about us page ==============*/
+.about_text h4 {
+    padding-top: 15px;
+}
+.icon {
+    width: 69px;
+    margin-left: 315px;
+    margin-bottom: 15px;
+}
+.c_form {
+    text-align: center;
+}
+.c_mr {
+    margin-top: 1rem !important;
+}
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .logo_chi {
+    margin-left: 87px;
+}
+    /*menu*/
+.menu ul li:first-child {
+    margin-left: 76px;
+}
+.menu ul li a {
+    margin-right: 75px !important;
+}
+/*service*/
+.service_text p {
+    margin-left: 122px;
+}
+.provide_text p {
+    margin-left: 135px;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){ ... }
+
+ /*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1919.98px){ 
+    /*header*/
+    .logo_wd {
+        width: 24.666667% !important;
+    }
+    /*menu*/
+    .menu ul li:first-child {
+        margin-left: 204px;
+    }
+    /*our service*/
+    .service_text p {
+        margin-left: 308px;
+    }
+    /*provide*/
+.provide_text p {
+    margin-left: 323px;
+}
+
+ }
+
+ /*1920+ devices (larger desktops, 1920px and up)*/
+@media (min-width: 1920px) and (max-width: 2560px){ 
+  /*header*/
+    .logo_wd {
+    width: 21.666667% !important;
+}
+    /*menu*/
+    .menu ul li:first-child {
+        margin-left: 167px;
+    }
+    .menu ul li a {
+    font-size: 22px;
+}
+/*banner*/
+.img_h{
+    width: 100%;
+    height: 100%;
+}
+.logistic {
+    width: 584px;
+}
+.logistic p {
+    font-size: 25px;
+}
+.btn_coustom {
+    font-size: 25px;
+}
+/*why_lobo*/
+.why_lobo_text {
+    margin-top: 0px;
+}
+.why_lobo_text p {
+    font-size: 25px;
+}
+.btn_coustom2 {
+    font-size: 25px;
+}
+    /*our service*/
+    .service_text p {
+    width: 1036px;
+    margin-left: 136px;
+    font-size: 25px;
+}
+.service_img p {
+    font-size: 25px;
+}
+    /*provide*/
+.provide_text p {
+    width: 1039px;
+    margin-left: 132px;
+    font-size: 25px;
+}
+.f_text p {
+    font-size: 25px;
+}
+/*============about page===============*/
+.about_text h4 {
+    font-size: 28px;
+}
+.about_text p {
+    font-size: 22px;
+}
+.coustomer_text p{
+    font-size: 26px;
+}
+.mission_text p {
+    font-size: 26px;
+}
+.miss_p, .cous_p {
+    width: 64px;
+}
+.menu ul li:first-child {
+    margin-left: 115px;
+}
+.address_h5{
+    font-size: 32px;
+}
+.address_p{
+    font-size: 21px;
+}
+.con_form input{
+    font-size: 25px;
+}
+.con_form textarea{
+    font-size: 25px;
+}
+.btn_coustom3 {
+    padding: 10px 34px;
+    font-size: 26px;
+}
+
+}
